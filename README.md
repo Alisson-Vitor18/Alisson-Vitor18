@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Linguagens que uso
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Vitor18&layout=compact)
+
 <!--
 **Alisson-Vitor18/Alisson-Vitor18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
