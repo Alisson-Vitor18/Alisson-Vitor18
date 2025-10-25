@@ -22,8 +22,8 @@ Estudante de Ciências da Computação, atualmente no 4º período
 ## 💻 Projetos recentes
 
 - **QuickSort em Lista Encadeada (C)** – Implementação de lista encadeada com QuickSort otimizado.
-- **EmployeeManager (Java)** - Gerenciador de funcionários.
-- **Library-BST (C)** - Gerenciador de livros com árvore binária de busca.
+- **EmployeeManager (Java)** - Sistema de gerenciamento de funcionários com cadastro, edição e remoção.
+- **Library-BST (C)** - Gerenciador de livros usando árvore binária de busca para inserção, busca e ordenação eficiente.
 
 ---
 
