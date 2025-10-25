@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-### Linguagens que uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Vitor18&layout=compact)
+### Linguagens que programo
+
+![C](https://img.shields.io/badge/-C-555?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-555?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-555?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 <!--
 **Alisson-Vitor18/Alisson-Vitor18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
