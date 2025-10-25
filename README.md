@@ -23,6 +23,7 @@ Estudante de Ciências da Computação, atualmente no 4º período
 
 - **QuickSort em Lista Encadeada (C)** – Implementação de lista encadeada com QuickSort otimizado.
 - **EmployeeManager (Java)** - Gerenciador de funcionários.
+- **Library-BST (C)** - Gerenciador de livros com árvore binária de busca.
 
 ---
 
