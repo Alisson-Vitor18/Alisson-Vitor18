@@ -22,6 +22,7 @@ Estudante de Ciências da Computação, atualmente no 4º período
 ## 💻 Projetos recentes
 
 - **QuickSort em Lista Encadeada (C)** – Implementação de lista encadeada com QuickSort otimizado.
+- **EmployeeManager** - Gerenciador de funcionários.
 
 ---
 
