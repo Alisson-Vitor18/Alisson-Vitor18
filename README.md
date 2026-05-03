@@ -6,7 +6,7 @@ Estudante de Ciências da Computação, atualmente no 4º período
 
 ## 🛠 Linguagens e Ferramentas
 
-![C](https://img.shields.io/badge/-C-555?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-555?style=for-the-badge&logo=c++&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-555?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=for-the-badge&logo=javascript&logoColor=white)
