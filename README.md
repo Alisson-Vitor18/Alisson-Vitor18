@@ -9,7 +9,7 @@ Estudante de Ciências da Computação, atualmente no 4º período
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-C6CC04?style=for-the-badge&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-555?style=for-the-badge&logo=git&logoColor=white)
 
 ---
