@@ -16,7 +16,7 @@ Estudante de Ciências da Computação, atualmente no 4º período
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Vitor18&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alisson-Vitor18&layout=compact&theme=radical)
 
 ---
 
