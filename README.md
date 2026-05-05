@@ -1,6 +1,6 @@
 # Olá, eu sou Alisson Vitor 👋
 
-Estudante de Ciências da Computação, atualmente no 4º período
+Estudante de Ciências da Computação, atualmente no 5º período
 
 ---
 
